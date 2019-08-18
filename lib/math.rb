@@ -1,24 +1,24 @@
 def addition(num1, num2)
- puts num1.class + num2.class
+ num1 + num2
 end
 
 def subtraction(num1,num2)
-  puts num1.class - num2.class
+   num1 - num2
   
 end
 
 def division(num1,num2)
-  puts num1.class / num2.class
+  num1 / num2
 end
 
 def multiplication(num1, num2)
-  puts num1.class * num2.class
+  num1 * num2
 end
 
 def modulo(num1, num2)
-   puts num1.class % num2.class
+   num1 % num2
 end
 
 def square_root(num1, num2)
- puts Math.sqrt 
+   num1 square_root num2
 end
